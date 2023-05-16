@@ -1,0 +1,9 @@
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/Clases.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/Clases_autogen_timestamp_deps.dir
+C:/info2/Proyecto Final/Codigo/build-Clases-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/CMakeFiles/Clases_autogen.dir
