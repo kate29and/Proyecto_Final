@@ -1,0 +1,10 @@
+release/arrow.o
+release/coin.o
+release/fisicas.o
+release/main.o
+release/mainwindow.o
+release/objetos.o
+release/personaje.o
+release/tablero.o
+release/qrc_resources.o
+release/moc_mainwindow.o

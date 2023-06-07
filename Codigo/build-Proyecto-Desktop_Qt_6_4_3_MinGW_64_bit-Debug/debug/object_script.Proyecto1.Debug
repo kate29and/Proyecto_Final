@@ -1,0 +1,11 @@
+debug/arrow.o
+debug/coin.o
+debug/fisicas.o
+debug/main.o
+debug/mainwindow.o
+debug/objetos.o
+debug/personaje.o
+debug/tablero.o
+debug/qrc_resources.o
+debug/moc_mainwindow.o
+debug/moc_objetos.o
