@@ -1,0 +1,10 @@
+debug/Reliquia.o
+debug/fantasma.o
+debug/main.o
+debug/mainwindow.o
+debug/muro.o
+debug/sprite.o
+debug/qrc_pictures.o
+debug/moc_fantasma.o
+debug/moc_mainwindow.o
+debug/moc_sprite.o

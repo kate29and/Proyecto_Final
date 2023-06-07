@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>muro1.png</file>
+        <file>pacman.png</file>
+        <file>OIP.jpg</file>
+        <file>move.png</file>
+        <file>fondo.webp</file>
+        <file>ff.png</file>
+    </qresource>
+</RCC>

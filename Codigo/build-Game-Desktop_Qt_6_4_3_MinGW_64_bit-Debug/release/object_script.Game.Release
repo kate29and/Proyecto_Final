@@ -1,0 +1,10 @@
+release/Reliquia.o
+release/fantasma.o
+release/main.o
+release/mainwindow.o
+release/muro.o
+release/sprite.o
+release/qrc_pictures.o
+release/moc_fantasma.o
+release/moc_mainwindow.o
+release/moc_sprite.o
